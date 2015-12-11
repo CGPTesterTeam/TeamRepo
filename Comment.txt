@@ -1,7 +1,4 @@
 Hello,Everybody!!
-<<<<<<< HEAD
-Nice to
-=======
+Nice to meet you.
 I am akematsu.
 NNNNNNNNN
->>>>>>> origin/master
