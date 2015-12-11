@@ -1,7 +1,5 @@
 Hello,Everybody!!
-<<<<<<< HEAD
 Nice to
-=======
 I am akematsu.
 NNNNNNNNN
->>>>>>> origin/master
+Weeeeeeeei!!!
