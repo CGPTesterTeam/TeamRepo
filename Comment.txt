@@ -1,5 +1,10 @@
 Hello,Everybody!!
+<<<<<<< HEAD
 Nice to
 I am akematsu.
 NNNNNNNNN
 Weeeeeeeei!!!
+=======
+I am akematsu.
+Nice to meet you.
+>>>>>>> refs/remotes/origin/master
